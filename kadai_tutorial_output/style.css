@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+
+/* 全体のスタイル */
+body {
+  font-size: 6em;
+  text-align: center;
+}
+
+/* タイマー */
+.count {
+  margin: auto;
+  font-weight: bold;
+  color: #888;
+}
+
+/* テキストが表示されるところ */
+.wrap {
+  margin-top: 20px;
+  padding: 80px 40px;
+  background-color: #666;
+  font-weight: bold;
+  color: #fff;
+}
+
+/* 正しいタイプ */
+.typed {
+  color: lightgreen;
+}
+/* ミスタイプ */
+.mistyped {
+  background-color: red;
+}
+
+
